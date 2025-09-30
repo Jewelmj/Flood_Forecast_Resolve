@@ -1,12 +1,12 @@
-# Flood_Forecast_Resolve 🌊
+# Flood_Forecast_Resolve 
 
-## 🌟 Project Objective
+## Project Objective
 
 The primary objective of **Flood\_Forecast\_Resolve** is to save lives by developing a proactive, end-to-end disaster management intelligence system focused on **flood and fire prediction and dynamic safety path generation**.
 
 This multi-agentic system leverages advanced satellite imagery analysis and machine learning to provide accurate, timely forecasts and translates that intelligence directly into actionable, life-saving guidance for citizens and disaster management organizations (DMOs).
 
-## 💡 Challenges Addressed
+## Challenges Addressed
 
 This project tackles critical issues in traditional disaster response by aiming to bridge the gap between scientific prediction and practical, on-the-ground response:
 
@@ -19,7 +19,7 @@ This project tackles critical issues in traditional disaster response by aiming 
 
 ---
 
-## 🤖 Multi-Agentic System Architecture
+## Multi-Agentic System Architecture
 
 The **Flood\_Forecast\_Resolve** solution operates as a **Multi-Agentic System**, where specialized, independent software agents work in concert to predict threats, communicate warnings, and provide tailored resolutions.
 
